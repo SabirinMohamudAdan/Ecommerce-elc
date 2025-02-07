@@ -1,5 +1,6 @@
 import DisplayProducts from "../Components/displayProducts"
-import Footer from "../Components/footer"
+import Footer from "../Components/Footer"
+
 import Header from "../Components/Header"
 import ProductList from "../Components/ProductList"
 
@@ -21,8 +22,7 @@ const Home = () => {
             <h1 className="text-4xl text-primaryColor text-center font-bold pb-20 ">Products</h1>
             <ProductList />
         </div>
-
-        <Footer />
+<Footer/>
     </div>
 }
 
