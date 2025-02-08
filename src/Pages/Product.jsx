@@ -33,7 +33,7 @@ const Products = () => {
                             <li className="text-gray-600">New user registered</li>
                             <li className="text-gray-600">Product "XYZ" added to inventory</li>
                         </ul> */}
-                     <ProductList/>
+                     {/* <ProductList/> */}
                     </div>
                 </div>
             </div>
